@@ -27,5 +27,5 @@ The cin.get(int value) takes in integer value number of characters including spa
 - 7.Run another loop for get the initials of the name and surname.
 - 8.Print the Initials.
 
-###Outcome of the code
+### Outcome of the code:
 Enter Name and Surname of the user and get the length of the Name and Surname without using inbuild functions and Print the initials of the the user.
